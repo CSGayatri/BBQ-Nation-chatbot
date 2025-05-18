@@ -44,12 +44,14 @@ pip install -r requirements.txt
 
 # Run FastAPI app
 uvicorn backend.main:app --reload
+---
 
-###2. Frontend (React)
+## 2. Frontend (React)
 cd frontend
 npm install
 npm run dev
 
+---
 
 🔐 Google Credentials
 🔒 Your google_credentials.json is excluded from version control (.gitignore)
@@ -64,12 +66,16 @@ Download google_credentials.json and place it in data/.
 
 Share the target Google Sheet with the service account email.
 
+---
+
 📡 API Endpoints
 POST /agent — Main Retell AI webhook
 
 GET /knowledge_base — Serve KB entries
 
 POST /log — Log conversation to Google Sheets
+
+---
 
 🙋‍♀️ Author
 C Sai laxmi Gayatri
