@@ -1,0 +1,6 @@
+# Set all text files to use LF in the repo, but let Git handle conversions
+* text=auto
+
+# Or force certain files to always use LF or CRLF
+# For example, force LF for JS files:
+*.js text eol=lf
