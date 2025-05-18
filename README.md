@@ -1,4 +1,4 @@
-# 🍽️ Barbeque Nation Chatbot (Voice & Chat-based Booking System)
+# 🍽️ Barbeque Nation Chatbot (Chat-based Booking System)
 
 This project is a full-stack AI assistant for **Barbeque Nation**, designed to handle:
 
