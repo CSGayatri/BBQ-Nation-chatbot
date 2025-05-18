@@ -9,7 +9,7 @@ This project is a full-stack AI assistant for **Barbeque Nation**, designed to h
 - Voice/chat interface with state-machine-based prompt handling
 
 Built using:
-- 🧠 Retell AI & AgentOps Framework (for voice/chat)
+- 🧠 Retell AI & AgentOps Framework (for chat)
 - ⚙️ FastAPI backend (Python)
 - 💬 React + Vite frontend (Chat UI)
 - 📄 Google Sheets API (logging conversations)
